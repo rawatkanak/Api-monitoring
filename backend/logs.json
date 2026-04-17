@@ -1,0 +1,3258 @@
+[
+  {
+    "_id": "69de481adfa5057d592675c1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 220,
+    "timestamp": "2026-04-14T13:58:50.342Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4824dfa5057d592675c2",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 534,
+    "timestamp": "2026-04-14T13:59:00.626Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de482edfa5057d592675c3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 230,
+    "timestamp": "2026-04-14T13:59:10.423Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4838dfa5057d592675c4",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 630,
+    "timestamp": "2026-04-14T13:59:20.753Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4842dfa5057d592675c5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 718,
+    "timestamp": "2026-04-14T13:59:30.932Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de484cdfa5057d592675c6",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 650,
+    "timestamp": "2026-04-14T13:59:40.769Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4856dfa5057d592675c7",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 142,
+    "timestamp": "2026-04-14T13:59:50.241Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4860dfa5057d592675c8",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 153,
+    "timestamp": "2026-04-14T14:00:00.422Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de486adfa5057d592675c9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 371,
+    "timestamp": "2026-04-14T14:00:10.622Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4874dfa5057d592675ca",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 598,
+    "timestamp": "2026-04-14T14:00:20.820Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de487edfa5057d592675cb",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 670,
+    "timestamp": "2026-04-14T14:00:30.797Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4888dfa5057d592675cc",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 105,
+    "timestamp": "2026-04-14T14:00:40.232Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4892dfa5057d592675cd",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 118,
+    "timestamp": "2026-04-14T14:00:50.183Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c34b7987dfe4acde799",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 694,
+    "timestamp": "2026-04-14T14:16:20.837Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c3eb7987dfe4acde79a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 107,
+    "timestamp": "2026-04-14T14:16:30.169Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c48b7987dfe4acde79b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 210,
+    "timestamp": "2026-04-14T14:16:40.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c52b7987dfe4acde79c",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 904,
+    "timestamp": "2026-04-14T14:16:50.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c5db7987dfe4acde79d",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 862,
+    "timestamp": "2026-04-14T14:17:01.009Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c66b7987dfe4acde79e",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 442,
+    "timestamp": "2026-04-14T14:17:10.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c70b7987dfe4acde79f",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 550,
+    "timestamp": "2026-04-14T14:17:20.620Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c7ab7987dfe4acde7a0",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 95,
+    "timestamp": "2026-04-14T14:17:30.157Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c84b7987dfe4acde7a1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 210,
+    "timestamp": "2026-04-14T14:17:40.312Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c8eb7987dfe4acde7a2",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 74,
+    "timestamp": "2026-04-14T14:17:50.144Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4c98b7987dfe4acde7a3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 532,
+    "timestamp": "2026-04-14T14:18:00.706Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4ca2b7987dfe4acde7a4",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 146,
+    "timestamp": "2026-04-14T14:18:10.218Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4cacb7987dfe4acde7a5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 112,
+    "timestamp": "2026-04-14T14:18:20.257Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4cb6b7987dfe4acde7a6",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 211,
+    "timestamp": "2026-04-14T14:18:30.388Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4cc0b7987dfe4acde7a7",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 73,
+    "timestamp": "2026-04-14T14:18:40.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4ccab7987dfe4acde7a8",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 69,
+    "timestamp": "2026-04-14T14:18:50.135Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4cd4b7987dfe4acde7a9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 66,
+    "timestamp": "2026-04-14T14:19:00.234Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4cdeb7987dfe4acde7aa",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 107,
+    "timestamp": "2026-04-14T14:19:10.219Z",
+    "__v": 0
+  },
+  {
+    "_id": "69de4ce8b7987dfe4acde7ab",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 614,
+    "timestamp": "2026-04-14T14:19:20.762Z",
+    "__v": 0
+  },
+  {
+    "_id": "69df192b9ebd844dab79e1e3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1235,
+    "timestamp": "2026-04-15T04:50:51.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "69df193fb6200a8a65ee9428",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1236,
+    "timestamp": "2026-04-15T04:51:11.423Z",
+    "__v": 0
+  },
+  {
+    "_id": "69df1949b6200a8a65ee9429",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1054,
+    "timestamp": "2026-04-15T04:51:21.266Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfb5f78e2857f679683eb9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 939,
+    "timestamp": "2026-04-15T15:59:51.382Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfcfb6f9aaf3eb9b178b35",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 2097,
+    "timestamp": "2026-04-15T17:49:42.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfcfbff9aaf3eb9b178b36",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 924,
+    "timestamp": "2026-04-15T17:49:51.054Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfcfd2eca554881cdac979",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 626,
+    "timestamp": "2026-04-15T17:50:10.729Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfcfddeca554881cdac97a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1025,
+    "timestamp": "2026-04-15T17:50:21.158Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfcff1796d9236aa35b8c0",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 967,
+    "timestamp": "2026-04-15T17:50:41.184Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfcffd796d9236aa35b8c1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 3432,
+    "timestamp": "2026-04-15T17:50:53.566Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd00ee1c4d6d950b1739a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 766,
+    "timestamp": "2026-04-15T17:51:10.983Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd01be1c4d6d950b1739b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 2685,
+    "timestamp": "2026-04-15T17:51:23.232Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd03161a435a1beb8b4c0",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1237,
+    "timestamp": "2026-04-15T17:51:45.555Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd03661a435a1beb8b4c2",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 234,
+    "timestamp": "2026-04-15T17:51:50.379Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd03761a435a1beb8b4c3",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1252,
+    "timestamp": "2026-04-15T17:51:51.801Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd4dd0b38f178acfe6bd4",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1145,
+    "timestamp": "2026-04-15T18:11:41.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd4de0b38f178acfe6bd5",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1335,
+    "timestamp": "2026-04-15T18:11:42.802Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd4e70b38f178acfe6bd6",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 929,
+    "timestamp": "2026-04-15T18:11:51.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd4e80b38f178acfe6bd7",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 942,
+    "timestamp": "2026-04-15T18:11:52.135Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd4fb9252154c1104e925",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1054,
+    "timestamp": "2026-04-15T18:12:11.201Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd4fc9252154c1104e926",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 775,
+    "timestamp": "2026-04-15T18:12:12.087Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd5049252154c1104e927",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 622,
+    "timestamp": "2026-04-15T18:12:20.795Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd5079252154c1104e928",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2254,
+    "timestamp": "2026-04-15T18:12:23.249Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd518cb698c88d6edda99",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 634,
+    "timestamp": "2026-04-15T18:12:40.783Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd519cb698c88d6edda9a",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 828,
+    "timestamp": "2026-04-15T18:12:41.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd523cb698c88d6edda9b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1176,
+    "timestamp": "2026-04-15T18:12:51.309Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd525cb698c88d6edda9c",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1829,
+    "timestamp": "2026-04-15T18:12:53.232Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd537d02e953dd1b015ea",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 935,
+    "timestamp": "2026-04-15T18:13:11.097Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd538d02e953dd1b015eb",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 926,
+    "timestamp": "2026-04-15T18:13:12.096Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd546d02e953dd1b015ec",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 5710,
+    "timestamp": "2026-04-15T18:13:26.097Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd547d02e953dd1b015ed",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1128,
+    "timestamp": "2026-04-15T18:13:27.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd54ad02e953dd1b015ee",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 201,
+    "timestamp": "2026-04-15T18:13:30.337Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd5558e192e5945cd3255",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1047,
+    "timestamp": "2026-04-15T18:13:41.202Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd5568e192e5945cd3256",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1127,
+    "timestamp": "2026-04-15T18:13:42.711Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd55e8e192e5945cd3257",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 636,
+    "timestamp": "2026-04-15T18:13:50.821Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd5608e192e5945cd3258",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1130,
+    "timestamp": "2026-04-15T18:13:52.029Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd5721ed208be87c54924",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 635,
+    "timestamp": "2026-04-15T18:14:10.793Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd5751ed208be87c54925",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2153,
+    "timestamp": "2026-04-15T18:14:13.126Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd57f1ed208be87c54926",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 2881,
+    "timestamp": "2026-04-15T18:14:23.066Z",
+    "__v": 0
+  },
+  {
+    "_id": "69dfd5801ed208be87c54927",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1069,
+    "timestamp": "2026-04-15T18:14:24.225Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ed2d9ef2cbe3af4807d",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 142,
+    "timestamp": "2026-04-16T06:16:50.382Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ed3d9ef2cbe3af4807e",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 825,
+    "timestamp": "2026-04-16T06:16:51.354Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07edcd9ef2cbe3af4807f",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 82,
+    "timestamp": "2026-04-16T06:17:00.193Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ee6fff8d777f970c3fd",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 107,
+    "timestamp": "2026-04-16T06:17:10.311Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ee7fff8d777f970c3fe",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 925,
+    "timestamp": "2026-04-16T06:17:11.330Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ef0fff8d777f970c3ff",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 109,
+    "timestamp": "2026-04-16T06:17:20.233Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ef1fff8d777f970c400",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1037,
+    "timestamp": "2026-04-16T06:17:21.361Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07efafff8d777f970c401",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 195,
+    "timestamp": "2026-04-16T06:17:30.369Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f04033cb19d9b956c92",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 252,
+    "timestamp": "2026-04-16T06:17:40.461Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f05033cb19d9b956c93",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1153,
+    "timestamp": "2026-04-16T06:17:41.738Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f0e033cb19d9b956c94",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 210,
+    "timestamp": "2026-04-16T06:17:50.344Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f10033cb19d9b956c95",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2375,
+    "timestamp": "2026-04-16T06:17:52.824Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f18033cb19d9b956c96",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 409,
+    "timestamp": "2026-04-16T06:18:00.597Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f2287986de4fd123ec5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 150,
+    "timestamp": "2026-04-16T06:18:10.371Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f2387986de4fd123ec6",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1027,
+    "timestamp": "2026-04-16T06:18:11.535Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f2c87986de4fd123ec7",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 102,
+    "timestamp": "2026-04-16T06:18:20.234Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f3187986de4fd123ec8",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 5264,
+    "timestamp": "2026-04-16T06:18:25.600Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f3687986de4fd123ec9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 131,
+    "timestamp": "2026-04-16T06:18:30.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f40e7fce3c74f1d4c5a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 345,
+    "timestamp": "2026-04-16T06:18:40.455Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f41e7fce3c74f1d4c5b",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 959,
+    "timestamp": "2026-04-16T06:18:41.490Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f4ae7fce3c74f1d4c5c",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 87,
+    "timestamp": "2026-04-16T06:18:50.171Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f4be7fce3c74f1d4c5d",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 947,
+    "timestamp": "2026-04-16T06:18:51.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f54e7fce3c74f1d4c5e",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 375,
+    "timestamp": "2026-04-16T06:19:00.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f5e4501588d3347e186",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 348,
+    "timestamp": "2026-04-16T06:19:10.464Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f5f4501588d3347e187",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 735,
+    "timestamp": "2026-04-16T06:19:11.342Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f684501588d3347e188",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 72,
+    "timestamp": "2026-04-16T06:19:20.154Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f694501588d3347e189",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1034,
+    "timestamp": "2026-04-16T06:19:21.375Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f724501588d3347e18a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 119,
+    "timestamp": "2026-04-16T06:19:30.303Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f7ce0d6001f2a46d7c1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 265,
+    "timestamp": "2026-04-16T06:19:40.438Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f7de0d6001f2a46d7c2",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 942,
+    "timestamp": "2026-04-16T06:19:41.460Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f86e0d6001f2a46d7c3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 111,
+    "timestamp": "2026-04-16T06:19:50.357Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f87e0d6001f2a46d7c4",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1134,
+    "timestamp": "2026-04-16T06:19:51.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f90e0d6001f2a46d7c5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 72,
+    "timestamp": "2026-04-16T06:20:00.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f9a38f2242a375fd919",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 124,
+    "timestamp": "2026-04-16T06:20:10.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07f9c38f2242a375fd91a",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1838,
+    "timestamp": "2026-04-16T06:20:12.155Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fa438f2242a375fd91b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 125,
+    "timestamp": "2026-04-16T06:20:20.283Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fa538f2242a375fd91c",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 720,
+    "timestamp": "2026-04-16T06:20:21.071Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fae38f2242a375fd91d",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 320,
+    "timestamp": "2026-04-16T06:20:30.416Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fb8864cda0fac5eb5c4",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 230,
+    "timestamp": "2026-04-16T06:20:40.363Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fb9864cda0fac5eb5c5",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 977,
+    "timestamp": "2026-04-16T06:20:41.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fc2864cda0fac5eb5c6",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 57,
+    "timestamp": "2026-04-16T06:20:50.131Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fc3864cda0fac5eb5c7",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1234,
+    "timestamp": "2026-04-16T06:20:51.485Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fcc864cda0fac5eb5c8",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 56,
+    "timestamp": "2026-04-16T06:21:00.341Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fd60f791cfa3e0d3611",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 725,
+    "timestamp": "2026-04-16T06:21:10.962Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fd80f791cfa3e0d3612",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1149,
+    "timestamp": "2026-04-16T06:21:12.374Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fe00f791cfa3e0d3613",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 66,
+    "timestamp": "2026-04-16T06:21:20.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fe10f791cfa3e0d3614",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1088,
+    "timestamp": "2026-04-16T06:21:21.441Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fea0f791cfa3e0d3615",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 85,
+    "timestamp": "2026-04-16T06:21:30.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ff4ef405f644da2ca95",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 308,
+    "timestamp": "2026-04-16T06:21:40.449Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ff5ef405f644da2ca96",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 918,
+    "timestamp": "2026-04-16T06:21:41.553Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07ffeef405f644da2ca97",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 51,
+    "timestamp": "2026-04-16T06:21:50.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e07fffef405f644da2ca98",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 819,
+    "timestamp": "2026-04-16T06:21:51.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08008ef405f644da2ca99",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 66,
+    "timestamp": "2026-04-16T06:22:00.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0801294edd1f957404fbd",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 89,
+    "timestamp": "2026-04-16T06:22:10.217Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0801394edd1f957404fbe",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 892,
+    "timestamp": "2026-04-16T06:22:11.159Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0801c94edd1f957404fbf",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 57,
+    "timestamp": "2026-04-16T06:22:20.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0801d94edd1f957404fc0",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 865,
+    "timestamp": "2026-04-16T06:22:21.230Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0802694edd1f957404fc1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 51,
+    "timestamp": "2026-04-16T06:22:30.248Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080307fd693e3732cdc0a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 208,
+    "timestamp": "2026-04-16T06:22:40.354Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080317fd693e3732cdc0b",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 954,
+    "timestamp": "2026-04-16T06:22:41.363Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0803a7fd693e3732cdc0c",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 113,
+    "timestamp": "2026-04-16T06:22:50.278Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0803b7fd693e3732cdc0d",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1231,
+    "timestamp": "2026-04-16T06:22:51.598Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080447fd693e3732cdc0e",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 75,
+    "timestamp": "2026-04-16T06:23:00.276Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0804eced6001291f06136",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 125,
+    "timestamp": "2026-04-16T06:23:10.470Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0804fced6001291f06137",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 917,
+    "timestamp": "2026-04-16T06:23:11.460Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08058ced6001291f06138",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 128,
+    "timestamp": "2026-04-16T06:23:20.266Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0805aced6001291f06139",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2411,
+    "timestamp": "2026-04-16T06:23:22.930Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08062ced6001291f0613a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 69,
+    "timestamp": "2026-04-16T06:23:30.164Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0806c85bc34e3606f1ea7",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 124,
+    "timestamp": "2026-04-16T06:23:40.270Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0806d85bc34e3606f1ea8",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1125,
+    "timestamp": "2026-04-16T06:23:41.566Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0807685bc34e3606f1ea9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 231,
+    "timestamp": "2026-04-16T06:23:50.509Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0807785bc34e3606f1eaa",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1229,
+    "timestamp": "2026-04-16T06:23:51.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0808185bc34e3606f1eab",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 313,
+    "timestamp": "2026-04-16T06:24:01.135Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0808285bc34e3606f1eac",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1172,
+    "timestamp": "2026-04-16T06:24:02.400Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0808a65b5a50ac8fe4c58",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 634,
+    "timestamp": "2026-04-16T06:24:10.882Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0808b65b5a50ac8fe4c59",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 915,
+    "timestamp": "2026-04-16T06:24:11.875Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0809465b5a50ac8fe4c5a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 321,
+    "timestamp": "2026-04-16T06:24:20.635Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0809965b5a50ac8fe4c5b",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 4297,
+    "timestamp": "2026-04-16T06:24:25.091Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080a811d839ad7b4aa3cf",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 81,
+    "timestamp": "2026-04-16T06:24:40.220Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080a911d839ad7b4aa3d0",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 827,
+    "timestamp": "2026-04-16T06:24:41.167Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080b211d839ad7b4aa3d1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 62,
+    "timestamp": "2026-04-16T06:24:50.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080b311d839ad7b4aa3d2",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1413,
+    "timestamp": "2026-04-16T06:24:51.687Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080bc11d839ad7b4aa3d3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 72,
+    "timestamp": "2026-04-16T06:25:00.283Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080bd11d839ad7b4aa3d4",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 894,
+    "timestamp": "2026-04-16T06:25:01.228Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080c6b8dc0fbc532998d5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 321,
+    "timestamp": "2026-04-16T06:25:10.480Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080c7b8dc0fbc532998d6",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 965,
+    "timestamp": "2026-04-16T06:25:11.682Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080d0b8dc0fbc532998d7",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 331,
+    "timestamp": "2026-04-16T06:25:20.495Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080d1b8dc0fbc532998d8",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1040,
+    "timestamp": "2026-04-16T06:25:21.736Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080dab8dc0fbc532998d9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 54,
+    "timestamp": "2026-04-16T06:25:30.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080e5d669532080b31020",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1062,
+    "timestamp": "2026-04-16T06:25:41.330Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080e6d669532080b31021",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1033,
+    "timestamp": "2026-04-16T06:25:42.514Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080eed669532080b31022",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 366,
+    "timestamp": "2026-04-16T06:25:50.508Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080f0d669532080b31023",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2050,
+    "timestamp": "2026-04-16T06:25:52.642Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e080f8d669532080b31024",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 62,
+    "timestamp": "2026-04-16T06:26:00.194Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08102fdf50b7b015eecdb",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 116,
+    "timestamp": "2026-04-16T06:26:10.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08103fdf50b7b015eecdc",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1039,
+    "timestamp": "2026-04-16T06:26:11.390Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0810cfdf50b7b015eecdd",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 72,
+    "timestamp": "2026-04-16T06:26:20.166Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0810dfdf50b7b015eecde",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1230,
+    "timestamp": "2026-04-16T06:26:21.517Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08116fdf50b7b015eecdf",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 74,
+    "timestamp": "2026-04-16T06:26:30.195Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081204f4e23af60c2eeb6",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 228,
+    "timestamp": "2026-04-16T06:26:40.380Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081214f4e23af60c2eeb7",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1164,
+    "timestamp": "2026-04-16T06:26:41.624Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0812a4f4e23af60c2eeb8",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 125,
+    "timestamp": "2026-04-16T06:26:50.628Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0812c4f4e23af60c2eeb9",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2177,
+    "timestamp": "2026-04-16T06:26:52.878Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081344f4e23af60c2eeba",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 62,
+    "timestamp": "2026-04-16T06:27:00.182Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0813e1f06ca14b0972cd0",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 125,
+    "timestamp": "2026-04-16T06:27:10.276Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0813f1f06ca14b0972cd1",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1128,
+    "timestamp": "2026-04-16T06:27:11.690Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081481f06ca14b0972cd2",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 76,
+    "timestamp": "2026-04-16T06:27:20.286Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081491f06ca14b0972cd3",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1030,
+    "timestamp": "2026-04-16T06:27:21.416Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081521f06ca14b0972cd4",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 214,
+    "timestamp": "2026-04-16T06:27:30.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0815cfeee5f460e7378b6",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 122,
+    "timestamp": "2026-04-16T06:27:40.278Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0815dfeee5f460e7378b7",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1321,
+    "timestamp": "2026-04-16T06:27:41.787Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08166feee5f460e7378b8",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 67,
+    "timestamp": "2026-04-16T06:27:50.250Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08167feee5f460e7378b9",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 885,
+    "timestamp": "2026-04-16T06:27:51.271Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08170feee5f460e7378ba",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 80,
+    "timestamp": "2026-04-16T06:28:00.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0817a3b61c425f9b41104",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 213,
+    "timestamp": "2026-04-16T06:28:10.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0817b3b61c425f9b41105",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1240,
+    "timestamp": "2026-04-16T06:28:11.703Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081843b61c425f9b41106",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 129,
+    "timestamp": "2026-04-16T06:28:20.327Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081853b61c425f9b41107",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1042,
+    "timestamp": "2026-04-16T06:28:21.440Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0818e3b61c425f9b41108",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 66,
+    "timestamp": "2026-04-16T06:28:30.197Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0819843f99cf17ab87175",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 219,
+    "timestamp": "2026-04-16T06:28:40.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0819943f99cf17ab87176",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1238,
+    "timestamp": "2026-04-16T06:28:41.711Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081a243f99cf17ab87177",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 64,
+    "timestamp": "2026-04-16T06:28:50.229Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081a343f99cf17ab87178",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1126,
+    "timestamp": "2026-04-16T06:28:51.434Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081ac43f99cf17ab87179",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 110,
+    "timestamp": "2026-04-16T06:29:00.241Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081b6d878f40dbcfc92e1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 114,
+    "timestamp": "2026-04-16T06:29:10.270Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081b7d878f40dbcfc92e2",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1120,
+    "timestamp": "2026-04-16T06:29:11.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081c0d878f40dbcfc92e3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 55,
+    "timestamp": "2026-04-16T06:29:20.114Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081c0d878f40dbcfc92e4",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 789,
+    "timestamp": "2026-04-16T06:29:20.991Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081cad878f40dbcfc92e5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 79,
+    "timestamp": "2026-04-16T06:29:30.220Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081d41e12f005f8c2e72a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 128,
+    "timestamp": "2026-04-16T06:29:40.310Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081d51e12f005f8c2e72b",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1051,
+    "timestamp": "2026-04-16T06:29:41.524Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081de1e12f005f8c2e72c",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 54,
+    "timestamp": "2026-04-16T06:29:50.158Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081df1e12f005f8c2e72d",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 817,
+    "timestamp": "2026-04-16T06:29:51.024Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081e81e12f005f8c2e72e",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 131,
+    "timestamp": "2026-04-16T06:30:00.272Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081f2c678442bd7121863",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 107,
+    "timestamp": "2026-04-16T06:30:10.366Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081f7c678442bd7121864",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 4895,
+    "timestamp": "2026-04-16T06:30:15.378Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081fcc678442bd7121865",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 58,
+    "timestamp": "2026-04-16T06:30:20.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e081fdc678442bd7121866",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1538,
+    "timestamp": "2026-04-16T06:30:21.854Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08206c678442bd7121867",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 137,
+    "timestamp": "2026-04-16T06:30:30.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082102e901266ee0498ee",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 148,
+    "timestamp": "2026-04-16T06:30:40.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082112e901266ee0498ef",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1109,
+    "timestamp": "2026-04-16T06:30:41.617Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0821a2e901266ee0498f0",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 254,
+    "timestamp": "2026-04-16T06:30:50.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0821b2e901266ee0498f1",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1232,
+    "timestamp": "2026-04-16T06:30:51.675Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082242e901266ee0498f2",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 159,
+    "timestamp": "2026-04-16T06:31:00.322Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0822eb7b560bd57e2646e",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 96,
+    "timestamp": "2026-04-16T06:31:10.289Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0822fb7b560bd57e2646f",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 972,
+    "timestamp": "2026-04-16T06:31:11.356Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08238b7b560bd57e26470",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 69,
+    "timestamp": "2026-04-16T06:31:20.187Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08239b7b560bd57e26471",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 821,
+    "timestamp": "2026-04-16T06:31:21.139Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08242b7b560bd57e26472",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 74,
+    "timestamp": "2026-04-16T06:31:30.227Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0824c843bf4d6978b12f9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 113,
+    "timestamp": "2026-04-16T06:31:40.319Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0824d843bf4d6978b12fa",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1126,
+    "timestamp": "2026-04-16T06:31:41.623Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08256843bf4d6978b12fb",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 109,
+    "timestamp": "2026-04-16T06:31:50.329Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08257843bf4d6978b12fc",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1031,
+    "timestamp": "2026-04-16T06:31:51.558Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08260843bf4d6978b12fd",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 82,
+    "timestamp": "2026-04-16T06:32:00.342Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0826ac0e6867920e6d214",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 117,
+    "timestamp": "2026-04-16T06:32:10.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0826bc0e6867920e6d215",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1230,
+    "timestamp": "2026-04-16T06:32:11.525Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08274c0e6867920e6d216",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 124,
+    "timestamp": "2026-04-16T06:32:20.254Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08275c0e6867920e6d217",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1022,
+    "timestamp": "2026-04-16T06:32:21.353Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0827ec0e6867920e6d218",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 69,
+    "timestamp": "2026-04-16T06:32:30.219Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08288cad240b9a6f81f4f",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 115,
+    "timestamp": "2026-04-16T06:32:40.323Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08289cad240b9a6f81f50",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1130,
+    "timestamp": "2026-04-16T06:32:41.630Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08292cad240b9a6f81f51",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 68,
+    "timestamp": "2026-04-16T06:32:50.197Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08293cad240b9a6f81f52",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 823,
+    "timestamp": "2026-04-16T06:32:51.156Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0829ccad240b9a6f81f53",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 56,
+    "timestamp": "2026-04-16T06:33:00.130Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082a66fe619272c692adc",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 150,
+    "timestamp": "2026-04-16T06:33:10.322Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082a76fe619272c692add",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1017,
+    "timestamp": "2026-04-16T06:33:11.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082b06fe619272c692ade",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 211,
+    "timestamp": "2026-04-16T06:33:20.548Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082b16fe619272c692adf",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 927,
+    "timestamp": "2026-04-16T06:33:21.569Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082ba6fe619272c692ae0",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 98,
+    "timestamp": "2026-04-16T06:33:30.264Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082c4ea7d81638a0ea5af",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 148,
+    "timestamp": "2026-04-16T06:33:40.607Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082c5ea7d81638a0ea5b0",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1110,
+    "timestamp": "2026-04-16T06:33:41.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082ceea7d81638a0ea5b1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 80,
+    "timestamp": "2026-04-16T06:33:50.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082cfea7d81638a0ea5b2",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1205,
+    "timestamp": "2026-04-16T06:33:51.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082d8ea7d81638a0ea5b3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 107,
+    "timestamp": "2026-04-16T06:34:00.274Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082e2de0016ce131adabe",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 318,
+    "timestamp": "2026-04-16T06:34:10.541Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082e3de0016ce131adabf",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 915,
+    "timestamp": "2026-04-16T06:34:11.644Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082ecde0016ce131adac0",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 74,
+    "timestamp": "2026-04-16T06:34:20.162Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082edde0016ce131adac1",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 939,
+    "timestamp": "2026-04-16T06:34:21.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e082f6de0016ce131adac2",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 87,
+    "timestamp": "2026-04-16T06:34:30.235Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0830056c8c5beddf4348e",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 118,
+    "timestamp": "2026-04-16T06:34:40.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0830156c8c5beddf4348f",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1025,
+    "timestamp": "2026-04-16T06:34:41.438Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0830a56c8c5beddf43490",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 109,
+    "timestamp": "2026-04-16T06:34:50.250Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0830b56c8c5beddf43491",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1233,
+    "timestamp": "2026-04-16T06:34:51.575Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0831456c8c5beddf43492",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 65,
+    "timestamp": "2026-04-16T06:35:00.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0831ed72f962fc57532af",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 117,
+    "timestamp": "2026-04-16T06:35:10.232Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0831fd72f962fc57532b0",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1026,
+    "timestamp": "2026-04-16T06:35:11.341Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08328d72f962fc57532b1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 132,
+    "timestamp": "2026-04-16T06:35:20.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08329d72f962fc57532b2",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 770,
+    "timestamp": "2026-04-16T06:35:21.271Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08332d72f962fc57532b3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 331,
+    "timestamp": "2026-04-16T06:35:30.518Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0833c094dc48cf108f8c8",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 229,
+    "timestamp": "2026-04-16T06:35:40.430Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0833d094dc48cf108f8c9",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1021,
+    "timestamp": "2026-04-16T06:35:41.758Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08346094dc48cf108f8ca",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 113,
+    "timestamp": "2026-04-16T06:35:50.257Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08347094dc48cf108f8cb",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 723,
+    "timestamp": "2026-04-16T06:35:51.074Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08350094dc48cf108f8cc",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 141,
+    "timestamp": "2026-04-16T06:36:00.319Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0835aac69e44661dfa666",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 107,
+    "timestamp": "2026-04-16T06:36:10.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0835bac69e44661dfa667",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 769,
+    "timestamp": "2026-04-16T06:36:11.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08364ac69e44661dfa668",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 57,
+    "timestamp": "2026-04-16T06:36:20.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08365ac69e44661dfa669",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1025,
+    "timestamp": "2026-04-16T06:36:21.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0836eac69e44661dfa66a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 132,
+    "timestamp": "2026-04-16T06:36:30.325Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08378c38cf179b425bec3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 102,
+    "timestamp": "2026-04-16T06:36:40.218Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e08379c38cf179b425bec4",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 822,
+    "timestamp": "2026-04-16T06:36:41.140Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a689514628107447ee15",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 412,
+    "timestamp": "2026-04-16T09:06:17.279Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a68a514628107447ee16",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1129,
+    "timestamp": "2026-04-16T09:06:18.590Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a68c514628107447ee17",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 27,
+    "timestamp": "2026-04-16T09:06:20.151Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a68c514628107447ee18",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 348,
+    "timestamp": "2026-04-16T09:06:20.676Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6a1d0d233fd2e2369fb",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 651,
+    "timestamp": "2026-04-16T09:06:41.049Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6a7d0d233fd2e2369fc",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 6572,
+    "timestamp": "2026-04-16T09:06:47.902Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6b64ff0b70f2fe4cace",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1457,
+    "timestamp": "2026-04-16T09:07:02.683Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6ca878ed17f3ae061fb",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 3331,
+    "timestamp": "2026-04-16T09:07:22.391Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6ca878ed17f3ae061fc",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 2481,
+    "timestamp": "2026-04-16T09:07:22.753Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6cf878ed17f3ae061fd",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 4494,
+    "timestamp": "2026-04-16T09:07:27.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6d2878ed17f3ae061fe",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 6485,
+    "timestamp": "2026-04-16T09:07:30.195Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6d4878ed17f3ae061ff",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 2018,
+    "timestamp": "2026-04-16T09:07:32.201Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6ed721b4139d4650e7b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 3842,
+    "timestamp": "2026-04-16T09:07:57.633Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a6ee721b4139d4650e7c",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 513,
+    "timestamp": "2026-04-16T09:07:58.135Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a707053dd143cce3483f",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1904,
+    "timestamp": "2026-04-16T09:08:23.818Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a708053dd143cce34840",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 106,
+    "timestamp": "2026-04-16T09:08:24.962Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a70a053dd143cce34841",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2973,
+    "timestamp": "2026-04-16T09:08:26.937Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a70b053dd143cce34842",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2563,
+    "timestamp": "2026-04-16T09:08:27.756Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7215ba81a444085df8b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 3556,
+    "timestamp": "2026-04-16T09:08:49.659Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7235ba81a444085df8c",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 377,
+    "timestamp": "2026-04-16T09:08:51.061Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7245ba81a444085df8d",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2562,
+    "timestamp": "2026-04-16T09:08:52.539Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7265ba81a444085df8e",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2937,
+    "timestamp": "2026-04-16T09:08:54.535Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7451a113f19c76c9bc4",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 2745,
+    "timestamp": "2026-04-16T09:09:25.227Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7471a113f19c76c9bc5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 246,
+    "timestamp": "2026-04-16T09:09:27.428Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7481a113f19c76c9bc6",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2234,
+    "timestamp": "2026-04-16T09:09:28.159Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7491a113f19c76c9bc7",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 2223,
+    "timestamp": "2026-04-16T09:09:29.766Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a74b1a113f19c76c9bc8",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 701,
+    "timestamp": "2026-04-16T09:09:31.006Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a74c1a113f19c76c9bc9",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 797,
+    "timestamp": "2026-04-16T09:09:32.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a773f978384abf20ceb9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 2686,
+    "timestamp": "2026-04-16T09:10:11.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a773f978384abf20ceba",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 383,
+    "timestamp": "2026-04-16T09:10:11.781Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a77af978384abf20cebb",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 5856,
+    "timestamp": "2026-04-16T09:10:18.034Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a77bf978384abf20cebc",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 8001,
+    "timestamp": "2026-04-16T09:10:19.765Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a78c6a854ac9f49c215b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1999,
+    "timestamp": "2026-04-16T09:10:36.603Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a79b0aa6d1f23823f863",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1057,
+    "timestamp": "2026-04-16T09:10:51.439Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7a60aa6d1f23823f864",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 10238,
+    "timestamp": "2026-04-16T09:11:02.859Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7a70aa6d1f23823f865",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 3434,
+    "timestamp": "2026-04-16T09:11:03.830Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7ba49b6f793cc68e854",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 3173,
+    "timestamp": "2026-04-16T09:11:22.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7be49b6f793cc68e855",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 3316,
+    "timestamp": "2026-04-16T09:11:26.771Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7bf49b6f793cc68e856",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 4980,
+    "timestamp": "2026-04-16T09:11:27.036Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7c049b6f793cc68e857",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 995,
+    "timestamp": "2026-04-16T09:11:28.550Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7c449b6f793cc68e858",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 1960,
+    "timestamp": "2026-04-16T09:11:32.339Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7d9c9c8751754791329",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 2597,
+    "timestamp": "2026-04-16T09:11:53.540Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a7dec9c875175479132a",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 4219,
+    "timestamp": "2026-04-16T09:11:58.103Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9048c98d86b303f1817",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 419,
+    "timestamp": "2026-04-16T09:16:52.880Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9068c98d86b303f1818",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1063,
+    "timestamp": "2026-04-16T09:16:54.076Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a90c8c98d86b303f1819",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 170,
+    "timestamp": "2026-04-16T09:17:00.357Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a916ebd7cd78543c0ae7",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 145,
+    "timestamp": "2026-04-16T09:17:10.264Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a917ebd7cd78543c0ae8",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 795,
+    "timestamp": "2026-04-16T09:17:11.137Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a920ebd7cd78543c0ae9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 137,
+    "timestamp": "2026-04-16T09:17:20.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a921ebd7cd78543c0aea",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 889,
+    "timestamp": "2026-04-16T09:17:21.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a92aebd7cd78543c0aeb",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 109,
+    "timestamp": "2026-04-16T09:17:30.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a93461d7f62cb8a4c0c8",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 218,
+    "timestamp": "2026-04-16T09:17:40.314Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a93561d7f62cb8a4c0c9",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 820,
+    "timestamp": "2026-04-16T09:17:41.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a93e61d7f62cb8a4c0ca",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 163,
+    "timestamp": "2026-04-16T09:17:50.255Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a93f61d7f62cb8a4c0cb",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 868,
+    "timestamp": "2026-04-16T09:17:51.172Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a94861d7f62cb8a4c0cc",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 67,
+    "timestamp": "2026-04-16T09:18:00.209Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a94961d7f62cb8a4c0cd",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 813,
+    "timestamp": "2026-04-16T09:18:01.109Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9520e6dde7489cd1478",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 301,
+    "timestamp": "2026-04-16T09:18:10.427Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9530e6dde7489cd1479",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 826,
+    "timestamp": "2026-04-16T09:18:11.355Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a95c0e6dde7489cd147a",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 101,
+    "timestamp": "2026-04-16T09:18:20.253Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a95d0e6dde7489cd147b",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 823,
+    "timestamp": "2026-04-16T09:18:21.178Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9660e6dde7489cd147c",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 114,
+    "timestamp": "2026-04-16T09:18:30.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a970903783bfde0f95b2",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 176,
+    "timestamp": "2026-04-16T09:18:40.305Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a971903783bfde0f95b3",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 919,
+    "timestamp": "2026-04-16T09:18:41.345Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a97a903783bfde0f95b4",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 93,
+    "timestamp": "2026-04-16T09:18:50.245Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a97b903783bfde0f95b5",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 822,
+    "timestamp": "2026-04-16T09:18:51.179Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a984903783bfde0f95b6",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 174,
+    "timestamp": "2026-04-16T09:19:00.477Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a98e158b21fe4199b59f",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 327,
+    "timestamp": "2026-04-16T09:19:10.549Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a98f158b21fe4199b5a0",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 926,
+    "timestamp": "2026-04-16T09:19:11.667Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a998158b21fe4199b5a1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 316,
+    "timestamp": "2026-04-16T09:19:20.473Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a999158b21fe4199b5a2",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 974,
+    "timestamp": "2026-04-16T09:19:21.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9a2158b21fe4199b5a3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 84,
+    "timestamp": "2026-04-16T09:19:30.278Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9acc3b4c908d47186d5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 228,
+    "timestamp": "2026-04-16T09:19:40.469Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9adc3b4c908d47186d6",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 828,
+    "timestamp": "2026-04-16T09:19:41.467Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9b6c3b4c908d47186d7",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 78,
+    "timestamp": "2026-04-16T09:19:50.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9b7c3b4c908d47186d8",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1084,
+    "timestamp": "2026-04-16T09:19:51.451Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9c0c3b4c908d47186d9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 96,
+    "timestamp": "2026-04-16T09:20:00.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9ca2a942c3ca30b6eb1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 137,
+    "timestamp": "2026-04-16T09:20:10.294Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9cd2a942c3ca30b6eb2",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 3477,
+    "timestamp": "2026-04-16T09:20:13.915Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9d42a942c3ca30b6eb3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 97,
+    "timestamp": "2026-04-16T09:20:20.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9d52a942c3ca30b6eb4",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 950,
+    "timestamp": "2026-04-16T09:20:21.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9de2a942c3ca30b6eb5",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 110,
+    "timestamp": "2026-04-16T09:20:30.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9e838c92a4bd5f39e63",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 682,
+    "timestamp": "2026-04-16T09:20:40.791Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9f138c92a4bd5f39e64",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 8409,
+    "timestamp": "2026-04-16T09:20:49.565Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9f238c92a4bd5f39e65",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 400,
+    "timestamp": "2026-04-16T09:20:50.571Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9f238c92a4bd5f39e66",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 265,
+    "timestamp": "2026-04-16T09:20:50.890Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9fc38c92a4bd5f39e67",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 134,
+    "timestamp": "2026-04-16T09:21:00.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0a9fd38c92a4bd5f39e68",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1027,
+    "timestamp": "2026-04-16T09:21:01.331Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa0630202fabaa0a2d81",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 113,
+    "timestamp": "2026-04-16T09:21:10.241Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa0730202fabaa0a2d82",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 895,
+    "timestamp": "2026-04-16T09:21:11.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa1030202fabaa0a2d83",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 330,
+    "timestamp": "2026-04-16T09:21:20.503Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa1130202fabaa0a2d84",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1132,
+    "timestamp": "2026-04-16T09:21:21.710Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa1a30202fabaa0a2d85",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 199,
+    "timestamp": "2026-04-16T09:21:30.312Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa24703b5e848cd7bd17",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 198,
+    "timestamp": "2026-04-16T09:21:40.339Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa25703b5e848cd7bd18",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1034,
+    "timestamp": "2026-04-16T09:21:41.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa2e703b5e848cd7bd19",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 99,
+    "timestamp": "2026-04-16T09:21:50.213Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa2f703b5e848cd7bd1a",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 827,
+    "timestamp": "2026-04-16T09:21:51.201Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa38703b5e848cd7bd1b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 58,
+    "timestamp": "2026-04-16T09:22:00.161Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa421b690fe76ca3a582",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 123,
+    "timestamp": "2026-04-16T09:22:10.233Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa431b690fe76ca3a583",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1133,
+    "timestamp": "2026-04-16T09:22:11.479Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa4c1b690fe76ca3a584",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 178,
+    "timestamp": "2026-04-16T09:22:20.328Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa4d1b690fe76ca3a585",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1135,
+    "timestamp": "2026-04-16T09:22:21.724Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa561b690fe76ca3a586",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 106,
+    "timestamp": "2026-04-16T09:22:30.219Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa60c373cb5766db3999",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 168,
+    "timestamp": "2026-04-16T09:22:40.332Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa61c373cb5766db399a",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1033,
+    "timestamp": "2026-04-16T09:22:41.484Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa6ac373cb5766db399b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 289,
+    "timestamp": "2026-04-16T09:22:50.446Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa6bc373cb5766db399c",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1207,
+    "timestamp": "2026-04-16T09:22:51.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa74c373cb5766db399d",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 267,
+    "timestamp": "2026-04-16T09:23:00.484Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa7e7b92267e86c51cad",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 157,
+    "timestamp": "2026-04-16T09:23:10.327Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa7f7b92267e86c51cae",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 828,
+    "timestamp": "2026-04-16T09:23:11.234Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa887b92267e86c51caf",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 68,
+    "timestamp": "2026-04-16T09:23:20.154Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa897b92267e86c51cb0",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1009,
+    "timestamp": "2026-04-16T09:23:21.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa927b92267e86c51cb1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 116,
+    "timestamp": "2026-04-16T09:23:30.325Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa9c2dff666978673bb9",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 112,
+    "timestamp": "2026-04-16T09:23:40.279Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aa9d2dff666978673bba",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1132,
+    "timestamp": "2026-04-16T09:23:41.490Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aaa62dff666978673bbb",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 109,
+    "timestamp": "2026-04-16T09:23:50.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aaa72dff666978673bbc",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 821,
+    "timestamp": "2026-04-16T09:23:51.112Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aab02dff666978673bbd",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 103,
+    "timestamp": "2026-04-16T09:24:00.226Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aabaa16f718e8009377b",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 491,
+    "timestamp": "2026-04-16T09:24:10.797Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aabca16f718e8009377c",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1128,
+    "timestamp": "2026-04-16T09:24:12.003Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aac4a16f718e8009377d",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 114,
+    "timestamp": "2026-04-16T09:24:20.206Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aac5a16f718e8009377e",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 937,
+    "timestamp": "2026-04-16T09:24:21.230Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aacea16f718e8009377f",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 79,
+    "timestamp": "2026-04-16T09:24:30.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aad80aec7026da20eadf",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 173,
+    "timestamp": "2026-04-16T09:24:40.342Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aad90aec7026da20eae0",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 822,
+    "timestamp": "2026-04-16T09:24:41.289Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aae20aec7026da20eae1",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 105,
+    "timestamp": "2026-04-16T09:24:50.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aae30aec7026da20eae2",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 1332,
+    "timestamp": "2026-04-16T09:24:51.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0aaec0aec7026da20eae3",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 60,
+    "timestamp": "2026-04-16T09:25:00.187Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0ab14905761d587a8ceef",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 627,
+    "timestamp": "2026-04-16T09:25:40.369Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0ab14905761d587a8cef0",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 394,
+    "timestamp": "2026-04-16T09:25:40.558Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0ab1e4c8b371004fcbe3d",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 109,
+    "timestamp": "2026-04-16T09:25:50.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0ab1f4c8b371004fcbe3e",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 899,
+    "timestamp": "2026-04-16T09:25:51.146Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0f498d63951391e85f678",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "status": "UP",
+    "responseTime": 492,
+    "timestamp": "2026-04-16T14:39:20.573Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e0f499d63951391e85f679",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6&longitude=77.2&current_weather=true",
+    "status": "UP",
+    "responseTime": 631,
+    "timestamp": "2026-04-16T14:39:21.290Z",
+    "__v": 0
+  }
+]
